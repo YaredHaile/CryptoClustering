@@ -17,7 +17,7 @@ Prepare the Data
  - Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
    - The first five rows of the scaled DataFrame should appear as follows:
-   - 
+     
      ![image](https://github.com/YaredHaile/CryptoClustering/assets/142150544/a4863bf5-cb17-43f5-9234-3b41467c2e1e)
 
 Find the Best Value for k Using the Original Scaled DataFrame
@@ -54,7 +54,7 @@ Optimise Clusters with Principal Component Analysis
 - Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
   - The first five rows of the PCA DataFrame should appear as follows:
-  - 
+    
 ![image](https://github.com/YaredHaile/CryptoClustering/assets/142150544/c8b0d151-e2ca-43c4-8197-daf14772fae5)
 
 Find the Best Value for k Using the PCA Data
